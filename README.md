@@ -1,4 +1,4 @@
-# Introduction
+# Context
 Wayne Enterprises is a multinational consumer goods corporation. It specializes in a wide 
 range of healthcare and hygiene products, which are organised into several segments 
 including Beauty; Grooming; Healthcare; Fabric & Home Care; and Baby, Feminine, & Family 

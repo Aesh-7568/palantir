@@ -12,12 +12,29 @@ market in order to help business gain efficacy.
 
 # Folder Description
 ## Case Study
-It conatains the detailed problem description and what is expected to be done
+It contains the detailed problem description and what is expected to be done
 ## Data
-The final dataset that has been used for model development is present here
+-Raw Data ( all the uploaded files)
+-EDA Data 
+--Merged Data (2 files Train merged &  test merged)
+--Cleaned Data (2 files Train cleaned & Test cleaned)
+--Feature Created Data(Train features, Test Features)
+-Modelling Data with prediction
+--Train In-sample modelling Data (X and Y and Prediction)
+--Train out of-sample modelling Data (X and Y and Prediction)
+--Test modelling Data(X and Y and Prediction) 
+--Final accuracy measure for all the modelling data
+-Output Test data with prediction 
+Test data with ID and AMT_unit and Unit
+
 ## Solution-
      Algo-It contains the model development files. The algorithms that has been used and the comparision of scores between them 
-     Docs-It consist of detailed presentation
+     Docs-
+     
+# Approach
+how we have forcasted the prices
+process flow
+
      
 
 

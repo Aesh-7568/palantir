@@ -20,20 +20,33 @@ It contains the detailed problem description and what is expected to be done
   2. Cleaned Data (2 files Train cleaned & Test cleaned)
   3. Feature Created Data(Train features, Test Features)
  - Modelling Data with prediction
-  1. Train In-sample modelling Data (X and Y and Prediction)
-  2. Train out of-sample modelling Data (X and Y and Prediction)
-  3. Test modelling Data(X and Y and Prediction) 
-  4. Final accuracy measure for all the modelling data
+   1. Train In-sample modelling Data (X and Y and Prediction)
+   2. Train out of-sample modelling Data (X and Y and Prediction)
+   3. Test modelling Data(X and Y and Prediction) 
+   4. Final accuracy measure for all the modelling data
 - Output Test data with prediction 
   Test data with ID and AMT_unit and Unit
 
 ## Solution-
-     Algo-It contains the model development files. The algorithms that has been used and the comparision of scores between them 
+     Algo-EDA Artifact
+EDA Code as per b.ii.1/2/3 (separate for train and test)
+EDA Visualization dashboard (Seasonality, Event impact, drill down to different brands, categories, impact of created features)
+Modelling artifact
+Code workbook for train models building and metrics
+Code workbook for test and prediction 
+Code workbook for discount strategy (managing all the errors that can occur in data, New product, never sold product, product sold long time back,…..)
+Code Repository for pipeline  https://accenture.palantirfoundry.com/workspace/documentation/product/transforms/pipeline-overview
+
+Model repository with all models, comparison and deployment https://accenture.palantirfoundry.com/workspace/documentation/product/foundry-ml/concept-modeling-objective#metrics-pipeline-management
+
+
+Visualization/Demo Artifact
+ 
      Docs-
      
-# Approach
-how we have forcasted the prices
-process flow
+## Approach
+### Process flow
+
 
      
 

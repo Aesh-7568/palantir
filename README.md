@@ -14,18 +14,18 @@ market in order to help business gain efficacy.
 ## Case Study
 It contains the detailed problem description and what is expected to be done
 ## Data
--Raw Data ( all the uploaded files)
--EDA Data 
---Merged Data (2 files Train merged &  test merged)
---Cleaned Data (2 files Train cleaned & Test cleaned)
---Feature Created Data(Train features, Test Features)
--Modelling Data with prediction
---Train In-sample modelling Data (X and Y and Prediction)
---Train out of-sample modelling Data (X and Y and Prediction)
---Test modelling Data(X and Y and Prediction) 
---Final accuracy measure for all the modelling data
--Output Test data with prediction 
-Test data with ID and AMT_unit and Unit
+- Raw Data ( all the uploaded files)
+- EDA Data 
+  1. Merged Data (2 files Train merged &  test merged)
+  2. Cleaned Data (2 files Train cleaned & Test cleaned)
+  3. Feature Created Data(Train features, Test Features)
+ - Modelling Data with prediction
+  1. Train In-sample modelling Data (X and Y and Prediction)
+  2. Train out of-sample modelling Data (X and Y and Prediction)
+  3. Test modelling Data(X and Y and Prediction) 
+  4. Final accuracy measure for all the modelling data
+- Output Test data with prediction 
+  Test data with ID and AMT_unit and Unit
 
 ## Solution-
      Algo-It contains the model development files. The algorithms that has been used and the comparision of scores between them 

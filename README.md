@@ -27,17 +27,18 @@ It contains the detailed problem description and what is expected to be done
 - Output Test data with prediction 
   Test data with ID and AMT_unit and Unit
 
-## Solution-
-     Algo-EDA Artifact
-EDA Code as per b.ii.1/2/3 (separate for train and test)
-EDA Visualization dashboard (Seasonality, Event impact, drill down to different brands, categories, impact of created features)
-Modelling artifact
-Code workbook for train models building and metrics
-Code workbook for test and prediction 
-Code workbook for discount strategy (managing all the errors that can occur in data, New product, never sold product, product sold long time back,…..)
-Code Repository for pipeline  https://accenture.palantirfoundry.com/workspace/documentation/product/transforms/pipeline-overview
+## Solution
+     Algo
+ - EDA Artifact
+    1. EDA Code 
+    2. EDA Visualization dashboard 
+- Modelling artifact
+    1.Code workbook for train models building and metrics
+    2.Code workbook for test and prediction 
+    3.Code workbook for discount strategy
+    4.Code Repository for pipeline 
 
-Model repository with all models, comparison and deployment https://accenture.palantirfoundry.com/workspace/documentation/product/foundry-ml/concept-modeling-objective#metrics-pipeline-management
+ - Model repository with all models, comparison and deployment 
 
 
 Visualization/Demo Artifact
@@ -46,6 +47,8 @@ Visualization/Demo Artifact
      
 ## Approach
 ### Process flow
+
+![Guidelines Final Submission docx](https://user-images.githubusercontent.com/42990724/154658820-63722402-f786-46df-8e9a-8f7424a8f54c.jpg)
 
 
      
